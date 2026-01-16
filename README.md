@@ -10,10 +10,11 @@ I focus on fundamentals over trends and design systems that are testable, scalab
 
 - **Backend:** Java, Spring Boot, Spring Security, REST APIs
 - **Frontend:** Angular, TypeScript
-- **Databases:** MySQL, MongoDB
+- **AI integration:** LangChain, LangGraph, SpringAI
+- **Databases:** MySQL, MongoDB, PostgreSQL
 - **Architecture:** DDD, Hexagonal Architecture, SOLID
 - **Testing:** JUnit, Mockito
-- **Tools:** Git, Maven, Docker
+- **Tools:** Git, Maven, Docker, Kubernetes, n8n, Jenkins, AWS
 
 ---
 
