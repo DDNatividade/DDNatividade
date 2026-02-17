@@ -14,7 +14,7 @@ I focus on fundamentals over trends and design systems that are testable, scalab
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Architecture:** DDD, Hexagonal Architecture, SOLID
 - **Testing:** JUnit, Mockito
-- **Tools:** Git, Maven, Docker, Kubernetes, n8n, Jenkins, AWS
+- **Tools:** Git, Maven, Docker
 
 ---
 
